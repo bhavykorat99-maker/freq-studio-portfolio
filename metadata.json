@@ -1,0 +1,6 @@
+{
+  "name": "Freq Studio",
+  "description": "Premium Portfolio Website for Freq Studio - Professional Video Editing & Creative Agency",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
